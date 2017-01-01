@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Create .gz files for all files in a folder",
   "main": "index.js",
+  "bin": "./bin.js",
   "scripts": {
     "test": "node test.js"
   },
@@ -19,5 +20,14 @@
   "bugs": {
     "url": "https://github.com/TehShrike/gzip-all/issues"
   },
-  "homepage": "https://github.com/TehShrike/gzip-all#readme"
+  "homepage": "https://github.com/TehShrike/gzip-all#readme",
+  "devDependencies": {
+    "hard-rejection": "0.1.0",
+    "rimraf": "2.5.4"
+  },
+  "dependencies": {
+    "glob": "7.1.1",
+    "p-map": "1.1.0",
+    "then-denodeify": "1.0.0"
+  }
 }
