@@ -1,0 +1,23 @@
+{
+  "name": "gzip-all",
+  "version": "1.0.0",
+  "description": "Create .gz files for all files in a folder",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TehShrike/gzip-all.git"
+  },
+  "keywords": [
+    "gzip",
+    "file"
+  ],
+  "author": "TehShrike",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/TehShrike/gzip-all/issues"
+  },
+  "homepage": "https://github.com/TehShrike/gzip-all#readme"
+}
