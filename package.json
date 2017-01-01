@@ -23,6 +23,7 @@
   "homepage": "https://github.com/TehShrike/gzip-all#readme",
   "devDependencies": {
     "hard-rejection": "0.1.0",
+    "power-assert": "1.4.2",
     "rimraf": "2.5.4"
   },
   "dependencies": {
