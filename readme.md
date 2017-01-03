@@ -1,6 +1,6 @@
 # gzip-all
 
-Recursively generate `.gz` gzipped versions of files recursively for every file in a folder.
+Generate `.gz` gzipped versions of files recursively for every file in a folder.
 
 ## API
 
